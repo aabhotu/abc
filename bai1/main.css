@@ -2,7 +2,7 @@
     box-sizing: border-box;
     max-width: 980px;
     text-align: center;
-    margin: 0 auto;
+    margin: auto;
 }
 body{
     margin: 0;
